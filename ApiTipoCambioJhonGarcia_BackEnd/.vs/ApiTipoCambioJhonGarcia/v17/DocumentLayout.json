@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|d:\\jhon\\git\\visualstudio\\apitipocambiojhongarcia_backend\\apitipocambiojhongarcia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|solutionrelative:apitipocambiojhongarcia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|d:\\jhon\\git\\visualstudio\\apitipocambiojhongarcia_backend\\apitipocambiojhongarcia\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|solutionrelative:apitipocambiojhongarcia\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|d:\\jhon\\git\\visualstudio\\apitipocambiojhongarcia_backend\\apitipocambiojhongarcia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|solutionrelative:apitipocambiojhongarcia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|d:\\jhon\\git\\visualstudio\\apitipocambiojhongarcia_backend\\apitipocambiojhongarcia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|solutionrelative:apitipocambiojhongarcia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|d:\\jhon\\git\\visualstudio\\apitipocambiojhongarcia_backend\\apitipocambiojhongarcia\\controllers\\tipocambiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|solutionrelative:apitipocambiojhongarcia\\controllers\\tipocambiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|d:\\jhon\\git\\visualstudio\\apitipocambiojhongarcia_backend\\apitipocambiojhongarcia\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|solutionrelative:apitipocambiojhongarcia\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|d:\\jhon\\git\\visualstudio\\apitipocambiojhongarcia_backend\\apitipocambiojhongarcia\\data\\tipocambiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|solutionrelative:apitipocambiojhongarcia\\data\\tipocambiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|d:\\jhon\\git\\visualstudio\\apitipocambiojhongarcia_backend\\apitipocambiojhongarcia\\models\\tipocambio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|solutionrelative:apitipocambiojhongarcia\\models\\tipocambio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|d:\\jhon\\git\\visualstudio\\apitipocambiojhongarcia_backend\\apitipocambiojhongarcia\\apitipocambiojhongarcia.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{93C7ECFE-0D7A-45E8-96F7-907D035B327A}|ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.csproj|solutionrelative:apitipocambiojhongarcia\\apitipocambiojhongarcia.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiTipoCambioJhonGarcia\\Dockerfile",
+              "ToolTip": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Dockerfile",
+              "RelativeToolTip": "ApiTipoCambioJhonGarcia\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-16T23:21:25.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiTipoCambioJhonGarcia\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ApiTipoCambioJhonGarcia\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:36:52.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiTipoCambioJhonGarcia\\appsettings.json",
+              "ToolTip": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\appsettings.json",
+              "RelativeToolTip": "ApiTipoCambioJhonGarcia\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T18:34:49.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiTipoCambioJhonGarcia\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiTipoCambioJhonGarcia\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T07:15:32.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Program.cs",
+              "RelativeDocumentMoniker": "ApiTipoCambioJhonGarcia\\Program.cs",
+              "ToolTip": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Program.cs",
+              "RelativeToolTip": "ApiTipoCambioJhonGarcia\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:53:08.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoCambioContext.cs",
+              "DocumentMoniker": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Data\\TipoCambioContext.cs",
+              "RelativeDocumentMoniker": "ApiTipoCambioJhonGarcia\\Data\\TipoCambioContext.cs",
+              "ToolTip": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Data\\TipoCambioContext.cs",
+              "RelativeToolTip": "ApiTipoCambioJhonGarcia\\Data\\TipoCambioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:44:44.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoCambio.cs",
+              "DocumentMoniker": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Models\\TipoCambio.cs",
+              "RelativeDocumentMoniker": "ApiTipoCambioJhonGarcia\\Models\\TipoCambio.cs",
+              "ToolTip": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Models\\TipoCambio.cs",
+              "RelativeToolTip": "ApiTipoCambioJhonGarcia\\Models\\TipoCambio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:42:38.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoCambioController.cs",
+              "DocumentMoniker": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Controllers\\TipoCambioController.cs",
+              "RelativeDocumentMoniker": "ApiTipoCambioJhonGarcia\\Controllers\\TipoCambioController.cs",
+              "ToolTip": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\Controllers\\TipoCambioController.cs",
+              "RelativeToolTip": "ApiTipoCambioJhonGarcia\\Controllers\\TipoCambioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:24:31.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiTipoCambioJhonGarcia.http",
+              "DocumentMoniker": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.http",
+              "RelativeDocumentMoniker": "ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.http",
+              "ToolTip": "D:\\Jhon\\Git\\visualStudio\\ApiTipoCambioJhonGarcia_BackEnd\\ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.http",
+              "RelativeToolTip": "ApiTipoCambioJhonGarcia\\ApiTipoCambioJhonGarcia.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-16T06:21:29.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
